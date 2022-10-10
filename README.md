@@ -1,6 +1,6 @@
 About myself,
 
-I recently completed my internship in Business Intelligence in the EMEA GES DATA Team in Luxembourg (12th August). 
+I recently completed my internship as a Data Engineer at Amazon Luxembourg (12th August). 
 And I recently graduated with my double master's degree in Industrial Engineering and Smart Industry at ICAI.
 
 During my master's degrees, I had the opportunity to practice with C/C++ and Python language for multiple purposes/projects
@@ -16,3 +16,5 @@ of a redshift cluster with Hoot…)
 
 Currently I am looking for a job position as a SDE that will help improve my coding skills and will chalenge my creativity
 and problem solving skills.
+
+To find more about myself you can follow my on LinkedIn: linkedin.com/ignacio-ozm/
